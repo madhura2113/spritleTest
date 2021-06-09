@@ -1,0 +1,15 @@
+.mainDiv {
+    border-style: ridge;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+.transactions {
+    border-style: ridge;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10%;
+}
+.inputStyle{
+    margin-bottom: 20px;
+}
